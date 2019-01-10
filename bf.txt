@@ -1,1 +1,5 @@
+this ia it working fine on stash 
 hi this is an attempt to bugfix'
+hi this is an attempt to bugfix
+lets stash now'
+
